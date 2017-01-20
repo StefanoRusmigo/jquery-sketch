@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000000;
+    background-color: #ffffff;
+}
+
+.container {
+    border: 1px solid #000000;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.userSettings {
+    width: 800px;
+    margin: 0 auto 30px auto;
+}
+
+
+#chooseColor {
+    float: right;
+}
+
+#red {
+    background-color: red;
+}
